@@ -1,19 +1,30 @@
-# Arga Setia Tamauka — Portfolio
+# ASTvibe Portfolio
 
-Personal portfolio showcasing selected projects, web development work, and current learning.
+Personal portfolio of Arga Setia Tamauka, showcasing selected software, web development work, and experiments.
 
-## Personal identity
+## Brand identity
 
-This portfolio is presented under **ASTnova** — Arga's personal identity for technology, creativity, and exploration.
+This portfolio is presented as **ASTvibe Portfolio** — the personal creative-technology identity of Arga Setia Tamauka.
 
-**Tagline:** IGNITE WHAT'S POSSIBLE.
+- **AST** comes from Arga's initials.
+- **Vibe** represents character, energy, atmosphere, and creative style.
+- **Tagline:** CREATE YOUR OWN VIBE.
+- **Pillars:** Technology · Creativity · Innovation · Exploration
 
-The name combines **AST** (personal initials) and **Nova** (inspired by a star that suddenly increases in brightness), symbolizing the potential of ideas to become meaningful innovation.
+All independent product names begin with **ASTvibe**, including ASTvibe Student Planner and ASTvibe Study AI.
 
-Read the [official ASTnova brand identity](https://github.com/argatamauka/argatamauka/blob/main/ASTNOVA.md).
+## Official portfolio
+
+https://astvibe.vercel.app
+
+## Projects
+
+- **ASTvibe Student Planner V2** — full-stack student productivity application.
+- **ASTvibe Student Planner V1** — personal productivity application.
+- **ASTvibe Absensi Karyawan** — employee attendance web application.
 
 ## Local preview
 
 Open `index.html` in a browser or serve this directory with a static web server.
 
-Project interfaces retain their own product identities; ASTnova is the parent personal identity.
+Each product retains its own interface and design system while sharing the ASTvibe identity.
