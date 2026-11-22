@@ -796,7 +796,7 @@ header h1 {
 
 
     .projects-card {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 20px;
     }
 
@@ -920,3 +920,22 @@ header h1 {
 .astvibe-footer img { width:26px; height:26px; }
 .astvibe-footer strong { color:#111; font-size:13px; letter-spacing:0; }
 .astvibe-footer .footer-tagline { color:#666; }
+
+/* PROJECT ACTIONS */
+.project-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin-top: 9px;
+}
+
+.project-actions .project-button {
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+.project-button-secondary {
+    background-color: #f2f0e8;
+}
+
