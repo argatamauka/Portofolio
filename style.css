@@ -910,13 +910,13 @@ header h1 {
 
 
 }
-/* ASTnova personal brand signature */
+/* ASTvibe personal brand signature */
 .brand-header { display:flex; align-items:center; justify-content:flex-start; }
 .brand-lockup { display:flex; flex-direction:column; align-items:flex-start; gap:5px; }
 .brand-tagline { margin:0; padding-left:4px; color:#555; font-size:9px; font-weight:800; letter-spacing:.16em; }
 .brand-intro { padding-top:4px; font-size:12px!important; }
 .brand-intro strong { font-weight:800; }
-.astnova-footer { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:8px; margin:24px auto 10px; padding:14px 10px; border-top:3px solid #000; color:#555; font-size:9px; font-weight:800; letter-spacing:.1em; text-align:center; }
-.astnova-footer img { width:26px; height:26px; }
-.astnova-footer strong { color:#111; font-size:13px; letter-spacing:0; }
-.astnova-footer .footer-tagline { color:#666; }
+.astvibe-footer { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:8px; margin:24px auto 10px; padding:14px 10px; border-top:3px solid #000; color:#555; font-size:9px; font-weight:800; letter-spacing:.1em; text-align:center; }
+.astvibe-footer img { width:26px; height:26px; }
+.astvibe-footer strong { color:#111; font-size:13px; letter-spacing:0; }
+.astvibe-footer .footer-tagline { color:#666; }
