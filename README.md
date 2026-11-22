@@ -19,7 +19,7 @@ https://astvibe.vercel.app
 
 ## Projects
 
-- **ASTvibe Study AI** — AI-assisted learning platform with sequential lessons, Learning Paths, and quizzes. Live: https://ast-study-ai.vercel.app.
+- **ASTvibe Study AI** — AI-assisted learning platform with sequential lessons, Learning Paths, and quizzes. [Project details](astvibe-study-ai.html) · [Live app](https://ast-study-ai.vercel.app).
 - **ASTvibe Student Planner V2** — full-stack student productivity application.
 - **ASTvibe Student Planner V1** — personal productivity application.
 - **ASTvibe Absensi Karyawan** — employee attendance web application.
